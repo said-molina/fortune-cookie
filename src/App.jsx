@@ -7,7 +7,7 @@ import ButtonPhrase from './components/buttonPhrase';
 import findAuthor from './data/AutorPrases';
 import AutorPhrase from './components/AutorPhrase';
 
-
+// App
 
 function App() {
   const imgBackground = [1,2,3,4];
