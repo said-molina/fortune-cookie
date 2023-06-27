@@ -3,7 +3,7 @@ import phrases from './data/phrases.json'
 import './App.css'
 import CardCookie from './components/CardCookie'
 import getElementRandom from './data/elementRandom';
-import ButtonPhrase from './components/buttonPhrase';
+import ButtonPhrase from './components/ButtonPhrase';
 import findAuthor from './data/AutorPrases';
 import AutorPhrase from './components/AutorPhrase';
 
